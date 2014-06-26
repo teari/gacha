@@ -1,0 +1,5 @@
+#ifndef GACHA_INCLUDE_GACHA_H_
+#define GACHA_INCLUDE_GACHA_H_
+
+
+#endif //GACHA_INCLUDE_GACHA_H_
