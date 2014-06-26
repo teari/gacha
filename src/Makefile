@@ -1,4 +1,4 @@
-TARGET = di
+TARGET = gacha
 CC = gcc
 OBJS = main.o gacha.o card.o
 INCLUDE = -I../include
