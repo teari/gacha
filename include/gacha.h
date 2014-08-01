@@ -1,6 +1,6 @@
-#ifndef GACHA_INCLUDE_GACHA_H_
-#define GACHA_INCLUDE_GACHA_H_
+#ifndef INCLUDE_GACHA_H_
+#define INCLUDE_GACHA_H_
 
 int gacha(void);
 
-#endif //GACHA_INCLUDE_GACHA_H_
+#endif  // INCLUDE_GACHA_H_
