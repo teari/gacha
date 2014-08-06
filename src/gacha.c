@@ -2,12 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NTRY 10000000
-#define FIRST 60
-#define SECOND 30
-#define THIRD 7
-#define FOURTH 2
-#define FIFTH 1
 
 int gacha(void) {
   // カードの種類
